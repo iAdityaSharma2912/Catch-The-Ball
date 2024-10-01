@@ -1,5 +1,4 @@
 # Catch-The-Ball Game
-# Catch the Ball Game
 
 Catch the Ball Game is a simple interactive game built using Tkinter in Python. The objective of the game is to move the bar at the bottom of the canvas to catch the falling ball. Each successful catch earns the player points, and the game continues until the ball reaches the bottom of the canvas.
 
